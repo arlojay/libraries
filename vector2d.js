@@ -127,4 +127,4 @@ class Vector2 {
             return new Vector2(Math.sin(angle)*step,Math.cos(angle)*step);
         }
     }
-
+}
